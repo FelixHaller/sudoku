@@ -13,7 +13,11 @@ To solve a sudoku you have to write it into a text file. Empty fields can
 be represented by any non-digit character. You can also write all numbers in a single
 line.
 
-Example 1:
+Example:
+
+.. image:: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/240px-Sudoku-by-L2G-20050714.svg.png
+
+File Example 1:
 
 ::
 
@@ -27,7 +31,7 @@ Example 1:
     ___419__5
     ____8__79
 
-Example 2:
+File Example 2:
 
 ::
 
